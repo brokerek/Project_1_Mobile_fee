@@ -1,11 +1,11 @@
 Для того, чтобы запустить проект нужно скачать датасеты, которые лежат в корневой директории проетка.
 
 Список датасетов:
-- /datasets/calls.csv
-- /datasets/internet.csv
-- /datasets/messages.csv
-- /datasets/tariffs.csv
-- /datasets/users.csv
+- calls.csv
+- internet.csv
+- messages.csv
+- tariffs.csv
+- users.csv
 
 ### Описание проекта
 
